@@ -11,11 +11,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/node-fetch": "^2.6.13",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.9.2"
   },
   "dependencies": {
     "@types/node": "^24.3.1",
-    "@types/node-fetch": "^2.6.13"
+    "node-fetch": "^3.3.2"
   }
 }
