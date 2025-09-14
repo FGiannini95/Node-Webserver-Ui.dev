@@ -1,4 +1,4 @@
-# React Course
+# Node-Webserver
 This project is a small NodeJS webserver with few static pages and one dynamic route. All code is type checked by the TypeScript compiler (https://ui.dev/typescript).
 ## Prerequisites
 - Have VSCode installed
